@@ -29,4 +29,4 @@ sudo chmod -R 755 /var/www/html/
 echo "Reiniciando o Apache..."
 sudo systemctl restart apache2
 
-echo "Provisionamento concluído com sucesso! ✅"
+echo "Provisionamento concluído com sucesso!"
